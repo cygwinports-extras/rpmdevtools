@@ -1,0 +1,4 @@
+category: Devel
+requires: perl python python-rpm rpm
+sdesc: "RPM utilities for package developers"
+ldesc: "rpmdevtools is a collection of rpm packaging related utilities."

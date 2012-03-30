@@ -1,0 +1,5 @@
+DESCRIPTION="Collection of RPM packaging related utilities"
+HOMEPAGE="https://www.fedorahosted.org/rpmdevtools/"
+SRC_URI="https://fedorahosted.org/releases/r/p/rpmdevtools/${P}.tar.xz"
+
+DEPEND="help2man python(rpm)"
